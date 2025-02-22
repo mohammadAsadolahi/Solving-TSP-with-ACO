@@ -28,4 +28,4 @@ using heuristic algorithm to solve high dimensional tsp problem
 ### route found by algorithm at iteration of 144(feeding algorithm with list of 20 city euclidean coordinates: x,y from 0 to 1000 ):
 ![iteration 144 solution](https://github.com/Elktrn/solving-TSP-problem-with-ACO-Heuristic-Algorithm-in-python/blob/main/Best%20solution%20found%20at%20144%20iterations%20by%20colony.png)  
 ### route found by algorithm at iteration of 160(feeding algorithm with list of 20 city euclidean coordinates: x,y from 0 to 1000 ):
-![iteration 160 solution](https://github.com/Elktrn/Solving-TSP-with-ACO-python/blob/main/Best%20solution%20found%20at%20160%20iterations%20by%20colony.png) 
+![iteration 160 solution](https://github.com/Elktrn/solving-TSP-problem-with-ACO-Heuristic-Algorithm-in-python/blob/main/Best%20solution%20found%20at%20160%20iterations%20by%20colony.png) 
