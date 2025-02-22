@@ -8,7 +8,7 @@ using heuristic algorithm to solve high dimensional tsp problem
 **I look forward to you questions about the project!**
   
 ### a random solution:
-![random solution](https://github.com/Elktrn/Solving-TSP-with-ACO-python/blob/main/random%20solution%20for%2020%20cities.png)
+![random solution](https://github.com/Elktrn/solving-TSP-problem-with-ACO-Heuristic-Algorithm-in-python/blob/main/random%20solution%20for%2020%20cities.png)
 ### route found by algorithm at iteration of 16(feeding algorithm with list of 20 city euclidean coordinates: x,y from 0 to 1000 ):
 ![iteration 16 solution](https://github.com/Elktrn/solving-TSP-problem-with-ACO-Heuristic-Algorithm-in-python/blob/main/Best%20solution%20found%20at%2016%20iterations%20by%20colony.png)  
 ### route found by algorithm at iteration of 32(feeding algorithm with list of 20 city euclidean coordinates: x,y from 0 to 1000 ):
